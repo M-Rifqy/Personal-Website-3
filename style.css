@@ -881,12 +881,38 @@ body::-webkit-scrollbar-thumb:hover {
   padding: 6px;
 }
 
+/*========== Certificate ==========*/
+.certificate {
+  margin-top: 100px;
+  /* background-image: url('./materials/blob.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 800px; */
+}
+
+.s2 {
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+.ss-2 {
+  background-position: center;
+  background-size: cover;
+  height: 220px !important;
+  width: 300px !important;
+}
+
+.ss-2 img {
+  display: block;
+  width: 100%;
+}
+
 /*========== Contact ==========*/
 .contact {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 100px;
+  margin-top: 200px;
   background-image: url("./materials/Signature.png");
   background-repeat: no-repeat;
   background-position: center;
